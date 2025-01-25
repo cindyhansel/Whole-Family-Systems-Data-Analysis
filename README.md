@@ -1,7 +1,7 @@
 # Whole-Family-Systems-Data-Analysis
 Qualitative data analysis based on in-person interviews of individuals.
 
-June, 2020
+Analysis was completed in June, 2020.
 
 ### The Partners
 
@@ -13,9 +13,9 @@ IMAA has served hundreds of newcomers every year by helping to create stability,
 
 Whole Family Systems, WFS, is a program within IMAA which focuses on addressing the challenges of refugee and immigrant families in early child development. The program is a family-driven model that identifies current issues, with inclusive and equitable family-driven solutions to inform shifts in programs, policy, and practice at the state level.
 
-Cradle 2 Career, is a community-wide initiative that works to improve educational outcomes for every child in Rochester by transforming the way partners work together. 
+Cradle 2 Career, C2C, is a community-wide initiative that works to improve educational outcomes for every child in Rochester by transforming the way partners work together. 
 
-Cradle 2 Career builds relationships across multiple sectors – nonprofit, business, government, and philanthropy – to determine successful strategies, break down barriers, and create new possibilities to support youth and families furthest from opportunity.
+C2C builds relationships across multiple sectors – nonprofit, business, government, and philanthropy – to determine successful strategies, break down barriers, and create new possibilities to support youth and families furthest from opportunity.
 
 Cradle 2 Career uses data-driven methodology to evaluate and accomplish goals set by their partners.
 
@@ -23,13 +23,10 @@ Cradle 2 Career uses data-driven methodology to evaluate and accomplish goals se
 Narrative data came from interviews of 80+ individuals of families of immigrants and refugees in Rochester, MN, who had children ages 5 and under. The intention of the analysis was to
 provide a report for program and support planning for newcomers in the area.
 
-Interview topics included technology, transportation, language, jobs, food, and friends and family support circles to
-understand successes and barriers that existed in early childhood education.
-
-Qualitative analysis methodology, data cleaning, theming, Excel pivot tables, data ethics, inter-cultural collaboration, and report
-design were key skills for the success of this project.
-
+Interview topics included technology, transportation, language, jobs, food, and friends and family support circles to understand successes and barriers that existed in early childhood education.
 
 ### The Analysis
 
-Analysis was completed and reported by the data team from Cradle 2 Career which consisted of Kelsey Zubke, Data and Research Manager, and Cindy Hansel, Data Analyst. Evaluators from United Way of Olmsted County participated in regular discussions about the analysis. Strong working relationships between analysists, interviewers, interpreters, and cultural experts were essential in understanding how to theme and categorize this qualitative data. 
+Analysis was completed and reported by the data team from Cradle 2 Career which consisted of Kelsey Zubke, Data and Research Manager, and Cindy Hansel, Data Analyst. Evaluators from United Way of Olmsted County participated in regular discussions about the analysis. 
+
+Qualitative analysis methodology, data cleaning, theming, Excel pivot tables, data ethics, inter-cultural collaboration, and report design were key skills for the success of this project. Strong working relationships between analysists, interviewers, interpreters, and cultural experts were essential in understanding how to theme and categorize this qualitative data. 
