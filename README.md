@@ -1,6 +1,8 @@
 # Whole-Family-Systems-Data-Analysis
 Qualitative data analysis based on in-person interviews of individuals.
 
+June, 2020
+
 ### The Partners
 
 Intercultural Mutual Assistance Association, IMAA, is a 501(c)(3) non profit founded in 1984 by Mr. Robert “Bob” Jones III (1942-2011). 
@@ -30,4 +32,4 @@ design were key skills for the success of this project.
 
 ### The Analysis
 
-Analysis was completed and reported by the data team from Cradle 2 Career which consisted of Kelsey Zubke, Data and Research Manager, and Cindy Hansel, Data Analyst. Evaluators from United Way of Olmsted County participated in regular discussions about the analysis. Strong working relationships between analysists and interviewers, interpreters, and cultural experts were essential in understanding how to theme and categorize this qualitative data. 
+Analysis was completed and reported by the data team from Cradle 2 Career which consisted of Kelsey Zubke, Data and Research Manager, and Cindy Hansel, Data Analyst. Evaluators from United Way of Olmsted County participated in regular discussions about the analysis. Strong working relationships between analysists, interviewers, interpreters, and cultural experts were essential in understanding how to theme and categorize this qualitative data. 
