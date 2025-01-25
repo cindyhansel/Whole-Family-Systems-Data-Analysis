@@ -1,7 +1,7 @@
 # Whole-Family-Systems-Data-Analysis
-Qualitative data analysis based on in-person interviews of individuals.
+Qualitative data analysis based on in-person interviews of individuals, completed in June 2020.
 
-Analysis was completed in June, 2020.
+[See report]( )
 
 ### The Partners
 
