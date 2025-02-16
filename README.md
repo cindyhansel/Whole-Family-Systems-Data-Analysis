@@ -41,3 +41,9 @@ Open-ended responses were themed and coded, then all responses were quantified b
 * Education level of the parent
 
 Qualitative analysis methodology, data cleaning, theming, Excel pivot tables, data ethics, inter-cultural collaboration, and report design were key skills for the success of this project. Strong working relationships between analysists, interviewers, interpreters, and cultural experts were essential in understanding how to theme and categorize this qualitative data. 
+
+### My Growth 
+
+This qualitative analysis allowed a great amount of personal growth for myself. The practice of theming and categorizing, while paying strong attention to interpretation, was pivotal in the way I think through any analysis. To understand the roots of the analysis, recognizing the reason for analysis and who might benefit from it places meaningful emphasis on the direction and methodology of the analysis.
+
+This experience has helped me consider what the important questions may be when beggining an analysis project. And who might be the right sources to consult? Are we open-minded enough to realize a fair and reasonable analysis and conclusion? Do we have a good crossover of experience and diversity to examine the data? All of these are questions I ask myself when considering any analysis.
