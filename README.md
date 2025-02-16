@@ -1,7 +1,7 @@
 # Whole-Family-Systems-Data-Analysis
 Qualitative data analysis based on in-person interviews of individuals, completed in June 2020.
 
-[See report](https://github.com/cindyhansel/Whole-Family-Systems-Data-Analysis/blob/main/Whole%20Families%20Systems%20Data%20Analysis%20Report.pdf)
+### [See report](https://github.com/cindyhansel/Whole-Family-Systems-Data-Analysis/blob/main/Whole%20Families%20Systems%20Data%20Analysis%20Report.pdf)
 
 ### The Partners
 
@@ -13,7 +13,7 @@ IMAA has served hundreds of newcomers every year by helping to create stability,
 
 Whole Family Systems, WFS, is a program within IMAA which focuses on addressing the challenges of refugee and immigrant families in early child development. The program is a family-driven model that identifies current issues, with inclusive and equitable family-driven solutions to inform shifts in programs, policy, and practice at the state level.
 
-Cradle 2 Career, C2C, is a community-wide initiative that works to improve educational outcomes for every child in Rochester by transforming the way partners work together. 
+Cradle 2 Career, C2C, is a community-wide initiative that works to improve educational outcomes for every child in Rochester by transforming the way partners work together. It works within StriveTogether, a national network of community partnerships that join together neighbors, including youth and families, nonprofits, businesses, schools and more, to work toward an equitable future for youth in education.
 
 C2C builds relationships across multiple sectors – nonprofit, business, government, and philanthropy – to determine successful strategies, break down barriers, and create new possibilities to support youth and families furthest from opportunity.
 
